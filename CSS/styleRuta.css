@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #4473C5;
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 5px 5px  #474747;
+    background-size: cover;
+    position: relative;
+    height: 245px;
+
+}
+
+.barco{
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+    margin-right: 30%;
+}
+.barco img {
+    width: 30%;
+    height: auto;
+}
+header h1{
+    position: absolute;
+    color:#ffff;
+    bottom: 40%;
+    left: 20%;
+    font-size:xxx-large;
+}
+
+header p{
+    position:absolute;
+    color:#fff;
+    bottom: 20%;
+    left: 20%;
+    font-size: x-large;
+}
+.navegacion ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+    display: flex; 
+}
+main{
+    background-image: url(/Imag/2149901782.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 5px 10px #4473C5;
+    
+}
+.navegacion ul li {
+    background-color: #4473C5;
+    box-shadow: 5px 5px 5px  #474747; 
+    margin: 0.5rem; 
+    padding: 1rem; 
+    width: 50%; 
+    height: auto; 
+    text-align: center; 
+    border-radius: 8px;
+    margin-top: 3%; 
+}
+.navegacion ul li:hover{
+    transform: translate(5px, 10px);
+}
+.navegacion ul li a {
+    text-decoration: none; 
+    color: white; 
+    font-size: 16px; 
+    display: block; 
+}
+section h2{
+    text-align: center;
+    margin-top: 4%;
+    font-size: xx-large;
+    margin-bottom: 5%;
+}
+section p{
+    background-color: rgba(76, 0, 255, 0.6);
+    color: #fff;
+    border-radius: 5px;
+    margin: 5%;
+    text-align:justify;
+    font-size: x-large;
+    margin-bottom: 2%;
+
+}
+footer{
+    margin-top: 2%;
+    box-shadow: 5px 5px 5px 10px #474747;
+    background-color: #4473C5;
+    width: auto;
+    height: 100px;
+}
+footer p{
+    text-align:center;
+    padding-top: 3%;
+    color: #fff;
+    font-size: large;
+
+}
