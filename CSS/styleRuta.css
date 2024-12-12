@@ -62,6 +62,64 @@ hr{width: 300px;
 
 /* cierre estilo de pagina ENFOQUE */
 
+/* Apertura Estilo para pagina RUTA */
+
+.sec3{
+
+    font-family:sans-serif;
+    display: flex;
+    padding: 1em; 
+}
+
+.art1{
+    background-color:  rgb(11, 110, 215);
+    color: #fff;
+    width: 20%;
+    padding: 2em;
+    margin: 5%;
+    text-align: justify;
+    text-align: center;
+}
+
+.art2{
+    background-color:  rgb(11, 110, 215);
+    color: #fff;
+    width: 20%;
+    padding: 2em;
+    margin: 5%;
+    text-align: center;
+    
+}
+
+.art1 img{
+    width: 30%; 
+}
+
+.art1 img:hover{
+    transform: scale(105%);
+}
+
+.t0{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 3.5%;
+    color:  rgb(11, 110, 215);
+}
+.t1{
+    font-size: 120%;
+}
+
+.videoR{
+    border-radius: 20PX;
+    margin-top: 10%;
+}
+
+.videoR:hover{
+    transform: scale(105%);
+}
+
+
+/* Cierre Estilo para pagina RUTA */
 
 /* Apertura Estilo para pagina CONSEJOS */
 
