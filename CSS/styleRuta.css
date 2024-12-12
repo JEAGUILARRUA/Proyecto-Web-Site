@@ -1,3 +1,123 @@
+
+/*  Apertura estilo para pagina ENFOQUE */
+
+.enfoquebody{background-color:rgb(0, 0, 0) ;
+
+}
+
+
+.boxEnfoque{width: 1200px;
+             height: 400px;
+             background-color: rgb(11, 110, 215);
+             margin-top: 50px;
+             margin-left: 145px;
+             border-radius: 50px;
+}
+
+.txtboxEnfoque{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+              font-size: 35px;
+              color: rgb(255, 255, 255);
+              margin-top: -40px;
+              padding: 50px;
+              text-align: justify;
+                                       
+}
+
+.titleBoxEnfoque{font-family:sans-serif;
+                 font-size: 40px;
+                 color:rgb(255, 255, 255);
+                 text-align:center;
+                 padding-top:40px;
+                                
+}
+
+.Enfoque{font-family: sans-serif;
+         font-size: 35px;
+         text-align: right;
+         margin-right:180px;
+         color: antiquewhite;
+
+}
+
+hr{width: 300px;
+    margin-top: -30px;
+    float: right;
+    margin-right:180px;
+
+}
+
+.videoEnfoque{border-radius: 30px;
+            margin-top: 30px;
+            margin-left: 350px;
+
+}
+
+.pieVideoEnfoque{text-align: center;
+                 font-size: 20px;
+                 color: aliceblue;
+
+}
+
+
+
+/* cierre estilo de pagina ENFOQUE */
+
+
+/* Apertura Estilo para pagina CONSEJOS */
+
+
+.consejoBody{background-color: black;
+
+}
+
+.Consejos{font-family: sans-serif;
+    font-size: 35px;
+    text-align: right;
+    margin-right:180px;
+    color: rgb(252, 252, 252);
+
+}
+
+.titleConsejos{font-family:sans-serif;
+    font-size: 40px;
+    color:rgb(255, 255, 255);
+    margin:90px 135px 135px;
+    text-align: center;
+    
+}
+/* contenedores de consejos */
+.Consejos1-6{width: 600px;
+            height: 150px;
+            background-color: rgb(119, 160, 255);
+            border-radius: 20px;
+            margin-left: 30px;
+        
+}
+
+.Consejos1-6:hover{
+    transform: scale(1.0);
+    box-shadow: 13px 15px 37px rgb(250, 248, 248);  
+    background-color:  #0d0064;
+}
+
+.textConsejos{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+             font-size: 30px;
+             color:aliceblue;
+             margin: 40px;
+             padding-top: 50px;
+             text-align: center;
+                
+}
+
+.cardconsejos{display: flex;
+              margin-left: 90px;
+              margin-top: -100px;
+
+}
+
+
+
+=======
 /* apertura estilo para index */
 
 
@@ -106,3 +226,4 @@ footer p{
 
 }
 /* cierre estilo index */
+
