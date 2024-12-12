@@ -2,7 +2,7 @@
 
 /*  Apertura estilo para pagina ENFOQUE */
 
-body{background-color: rgb(240, 240, 240);
+.enfoquebody{background-image: url();
 
 }
 
@@ -55,6 +55,8 @@ hr{width: 300px;
                  font-size: 20px;
 
 }
+
+
 
 /* cierre estilo de pagina ENFOQUE */
 
